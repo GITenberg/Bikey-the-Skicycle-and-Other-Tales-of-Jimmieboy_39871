@@ -1,0 +1,42 @@
+_repo: Bikey-the-Skicycle-and-Other-Tales-of-Jimmieboy_39871
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Newell, Peter
+    alias: Newell, P. S. (Peter S.)
+    birthdate: &id001 1862
+    deathdate: 1924
+    gutenberg_agent_id: '7143'
+    url: http://www.gutenberg.org/2009/agents/7143
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: *id001
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2012-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, American'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Short stories, American'
+- !lcc 'PZ'
+tableOfContents: Bikey the skicycle -- The imp of the telephone -- Caught in Toy Town
+  -- Totherwayville, the animal town -- An electrical error -- In the brownie's house
+  -- Jimmieboy; and something -- Jimmieboy's fire works -- High-jinks in the barn
+  -- Jimmieboy's valentine -- The magic sled -- The stupid little apple tree.
+title: Bikey the Skicycle and Other Tales of Jimmieboy
+url: http://www.gutenberg.org/ebooks/39871
